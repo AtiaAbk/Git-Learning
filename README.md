@@ -1,4 +1,3 @@
-# Git-Learning
 <div align="center">
 
 # 🌳 The Complete Git & GitHub Mastery Guide
@@ -3180,11 +3179,9 @@ git switch feature/oops-work          # continue your work safely here
 
 *Engineer, builder, and lifelong learner — turning complex topics into clear, practical guides.*
 
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-
-*(Replace the badges above with your actual profile links.)*
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/AtiaAbk)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/feed/)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>](mailto:atia.abk@gmail.com)
 
 </div>
 
