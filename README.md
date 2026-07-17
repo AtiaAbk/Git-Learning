@@ -3175,7 +3175,7 @@ git switch feature/oops-work          # continue your work safely here
 
 <div align="center">
 
-### Maintained with ❤️ by **Atia**
+### Maintained by **Atia Oishi**
 
 *Engineer, builder, and lifelong learner — turning complex topics into clear, practical guides.*
 
