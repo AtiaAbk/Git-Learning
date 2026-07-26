@@ -416,7 +416,7 @@ flowchart LR
 ### 3.1 Identity Setup (Required First Step)
 
 ```bash
-git config --global user.name "Atia Rahman"
+git config --global user.name "Atia oishi"
 git config --global user.email "atia@example.com"
 ```
 
