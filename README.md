@@ -3177,7 +3177,7 @@ git switch feature/oops-work          # continue your work safely here
 
 ### Maintained by **Atia Oishi**
 
-*Engineer, builder, and lifelong learner — turning complex topics into clear, practical guides.*
+*Engineer,  and lifelong learner — turning complex topics into clear, practical guides.*
 
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/AtiaAbk)
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/feed/)
