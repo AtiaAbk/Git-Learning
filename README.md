@@ -3271,7 +3271,7 @@ git switch feature/oops-work          # continue your work safely here
 
 ### Curated & Maintained by **Atia Sanjida (Atia Oishi)**
 
-*DevOps, Cloud & Linux Enthusiast · Turning complex version control concepts into intuitive visual masteries.*
+*Turning complex version control concepts into intuitive visual masteries.*
 
 <br/>
 
