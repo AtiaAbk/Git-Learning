@@ -21,7 +21,6 @@
 <a href="https://github.com/AtiaAbk/Git-Learning/watchers"><img src="https://img.shields.io/github/watchers/AtiaAbk/Git-Learning?style=social" alt="Watchers"/></a>
 
 <br/><br/>
-
 **A single, self-contained repository that teaches Git and GitHub from first principles to advanced, production-grade workflows.**
 
 `Difficulty: Beginner → Advanced` &nbsp;•&nbsp; `Reading time: ~3.5 h full / 10 min cheat sheet` &nbsp;•&nbsp; `Format: GitHub Flavored Markdown`
