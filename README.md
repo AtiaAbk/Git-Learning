@@ -4,7 +4,11 @@
 <a id="-the-complete-git--github-mastery-guide"></a>
 <a id="top"></a>
 
-<img src="assets/banner.svg" alt="The Complete Git and GitHub Mastery Guide" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-dark.svg" alt="The Complete Git and GitHub Mastery Guide" width="100%"/>
+</picture>
 
 <br/>
 
@@ -36,7 +40,13 @@
 
 </div>
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-about-this-repository"></a>
 <a id="about-this-repository"></a>
@@ -64,7 +74,13 @@
 | 🌳 **Advanced** | Wants deep internals & GitHub power features | 17 – 26 |
 | 🏆 **Professional** | Wants team workflows, CI/CD, best practices | 27 – 36 |
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 ## 📚 Table of Contents
 
@@ -111,7 +127,13 @@
 
 </details>
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-1-introduction-to-version-control--git"></a>
 <a id="1-introduction-to-version-control--git"></a>
@@ -249,7 +271,13 @@ Every object is identified by a **SHA-1 hash** (a 40-character hexadecimal strin
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-2-installation"></a>
 <a id="2-installation"></a>
@@ -382,7 +410,13 @@ Prefix your package manager command with `sudo`.
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-3-configuration"></a>
 <a id="3-configuration"></a>
@@ -513,7 +547,13 @@ git config --global --remove-section alias  # remove whole section
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-4-creating-repositories"></a>
 <a id="4-creating-repositories"></a>
@@ -593,7 +633,13 @@ gh repo create my-new-project --template user/template-repo
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-5-basic-workflow"></a>
 <a id="5-basic-workflow"></a>
@@ -764,7 +810,13 @@ git stash branch new-branch      # create a branch from a stash
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-6-branching"></a>
 <a id="6-branching"></a>
@@ -845,7 +897,13 @@ git push -u origin feature/user-auth
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-7-merging"></a>
 <a id="7-merging"></a>
@@ -947,7 +1005,13 @@ Popular merge tools: VS Code, Meld, KDiff3, Beyond Compare, `vimdiff`, GitHub De
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-8-rebasing"></a>
 <a id="8-rebasing"></a>
@@ -1091,7 +1155,13 @@ git cherry-pick --abort                # cancel
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-9-remote-repositories"></a>
 <a id="9-remote-repositories"></a>
@@ -1199,7 +1269,13 @@ git push --mirror git@newhost:user/repo.git    # push absolutely everything, exa
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-10-tags"></a>
 <a id="10-tags"></a>
@@ -1265,7 +1341,13 @@ git switch -c hotfix-from-tag v1.0.0   # create a branch FROM a tag (recommended
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-11-undo-operations"></a>
 <a id="11-undo-operations"></a>
@@ -1377,7 +1459,13 @@ git branch recovered-branch a1b2c3d
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-12-searching-git-history"></a>
 <a id="12-searching-git-history"></a>
@@ -1468,7 +1556,13 @@ flowchart LR
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-13-git-history--log-formatting"></a>
 <a id="13-git-history--log-formatting"></a>
@@ -1541,7 +1635,13 @@ git log --no-merges        # exclude merge commits (cleaner feature history)
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-14-git-internals"></a>
 <a id="14-git-internals"></a>
@@ -1631,7 +1731,13 @@ Git computes: `SHA1("blob " + content_length + "\0" + content)`. This is why ide
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-15-git-hooks"></a>
 <a id="15-git-hooks"></a>
@@ -1710,7 +1816,13 @@ git commit --no-verify -m "message"   # bypass hooks (use sparingly!)
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-16-gitignore"></a>
 <a id="16-gitignore"></a>
@@ -1800,7 +1912,13 @@ git check-ignore -v path/to/file
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-17-github-deep-dive"></a>
 <a id="17-github-deep-dive"></a>
@@ -1943,10 +2061,22 @@ updates:
 
 `.github/ISSUE_TEMPLATE/bug_report.md`:
 ```markdown
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 name: Bug Report
 about: Report a reproducible bug
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 **Describe the bug**
 A clear description.
@@ -1970,7 +2100,13 @@ Closes #
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-18-git-lfs-large-file-storage"></a>
 <a id="18-git-lfs-large-file-storage"></a>
@@ -2021,7 +2157,13 @@ git lfs migrate import --include="*.psd" --everything
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-19-submodules"></a>
 <a id="19-submodules"></a>
@@ -2071,7 +2213,13 @@ rm -rf .git/modules/libs/library
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-20-subtree"></a>
 <a id="20-subtree"></a>
@@ -2109,7 +2257,13 @@ git subtree push --prefix=libs/library https://github.com/user/library.git contr
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-21-worktrees"></a>
 <a id="21-worktrees"></a>
@@ -2140,7 +2294,13 @@ git worktree prune                      # clean up stale references
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-22-sparse-checkout"></a>
 <a id="22-sparse-checkout"></a>
@@ -2178,7 +2338,13 @@ git clone --filter=blob:none --no-checkout --depth 1 <url>
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-23-git-maintenance"></a>
 <a id="23-git-maintenance"></a>
@@ -2241,7 +2407,13 @@ git maintenance run --task=gc
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-24-authentication--signing"></a>
 <a id="24-authentication--signing"></a>
@@ -2327,7 +2499,13 @@ git config --global commit.gpgsign true
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-25-advanced-git"></a>
 <a id="25-advanced-git"></a>
@@ -2428,7 +2606,13 @@ git replace <old-hash> <new-hash>    # swap an object without rewriting descenda
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-26-git-performance"></a>
 <a id="26-git-performance"></a>
@@ -2483,7 +2667,13 @@ git config core.fsmonitor true
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-27-collaboration-workflows"></a>
 <a id="27-collaboration-workflows"></a>
@@ -2570,7 +2760,13 @@ git switch develop && git merge --no-ff hotfix/critical-auth-bug
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-28-cicd-integration"></a>
 <a id="28-cicd-integration"></a>
@@ -2645,7 +2841,13 @@ pipeline {
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-29-best-practices"></a>
 <a id="29-best-practices"></a>
@@ -2737,7 +2939,13 @@ project-root/
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-30-troubleshooting"></a>
 <a id="30-troubleshooting"></a>
@@ -2850,7 +3058,13 @@ Informational — run `git push` (ahead) or `git pull` (behind) as needed.
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-31-interview-questions"></a>
 <a id="31-interview-questions"></a>
@@ -2944,7 +3158,13 @@ A local, chronological log of every movement of `HEAD` (commits, resets, checkou
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-32-cheat-sheets"></a>
 <a id="32-cheat-sheets"></a>
@@ -3030,7 +3250,13 @@ flowchart TD
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-33-visual-diagrams"></a>
 <a id="33-visual-diagrams"></a>
@@ -3104,7 +3330,13 @@ graph TD
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-34-real-world-scenarios"></a>
 <a id="34-real-world-scenarios"></a>
@@ -3234,7 +3466,13 @@ git switch feature/oops-work          # continue your work safely here
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-35-resources"></a>
 <a id="35-resources"></a>
@@ -3259,7 +3497,13 @@ git switch feature/oops-work          # continue your work safely here
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <a id="-36-author"></a>
 <a id="36-author"></a>
@@ -3326,11 +3570,21 @@ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 ```
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-dark.svg" alt="" width="100%"/>
+  </picture>
+</p>
 
 <div align="center">
 
-<img src="assets/footer.svg" alt="Happy committing" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
+  <img src="assets/footer-dark.svg" alt="Happy committing" width="100%"/>
+</picture>
 
 ### ⭐ If this guide helped you, consider giving the repository a star!
 
