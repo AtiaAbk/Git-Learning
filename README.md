@@ -1,29 +1,45 @@
 <div align="center">
 
-# 🌳 The Complete Git & GitHub Mastery Guide
+<a id="the-complete-git--github-mastery-guide"></a>
+<a id="-the-complete-git--github-mastery-guide"></a>
+<a id="top"></a>
 
-### *From Zero to Version Control Hero*
+<img src="assets/banner.svg" alt="The Complete Git and GitHub Mastery Guide" width="100%"/>
+
+<br/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="MIT License"/>
-<img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"/>
-<img src="https://img.shields.io/badge/Maintained-Yes-success.svg?style=for-the-badge" alt="Maintained"/>
+<img src="https://img.shields.io/badge/Level-Beginner%20%E2%86%92%20Advanced-8957e5?style=for-the-badge" alt="Level"/>
+<img src="https://img.shields.io/badge/License-MIT-2ea043?style=for-the-badge" alt="MIT License"/>
+<img src="https://img.shields.io/badge/PRs-Welcome-388bfd?style=for-the-badge" alt="PRs Welcome"/>
+<img src="https://img.shields.io/badge/Maintained-Yes-e3a008?style=for-the-badge" alt="Maintained"/>
+<a href="https://www.linkedin.com/in/atia-sanjida-085947233/"><img src="https://img.shields.io/badge/Author-Atia%20Sanjida-blueviolet.svg?style=for-the-badge" alt="Author"/></a>
 
-<img src="https://img.shields.io/github/stars/your-username/git-mastery-guide?style=social" alt="Stars"/>
-<img src="https://img.shields.io/github/forks/your-username/git-mastery-guide?style=social" alt="Forks"/>
-<img src="https://img.shields.io/github/watchers/your-username/git-mastery-guide?style=social" alt="Watchers"/>
+<a href="https://github.com/AtiaAbk/Git-Learning/stargazers"><img src="https://img.shields.io/github/stars/AtiaAbk/Git-Learning?style=social" alt="Stars"/></a>
+<a href="https://github.com/AtiaAbk/Git-Learning/network/members"><img src="https://img.shields.io/github/forks/AtiaAbk/Git-Learning?style=social" alt="Forks"/></a>
+<a href="https://github.com/AtiaAbk/Git-Learning/watchers"><img src="https://img.shields.io/github/watchers/AtiaAbk/Git-Learning?style=social" alt="Watchers"/></a>
 
-**A single, self-contained repository that teaches Git and GitHub from absolute first principles to advanced, production-grade workflows.**
+<br/><br/>
 
-`Difficulty: Beginner → Advanced` • `Estimated Reading Time: ~3.5 hours (full read) / 10 min (cheat sheet only)` • `Format: GitHub Flavored Markdown`
+**A single, self-contained repository that teaches Git and GitHub from first principles to advanced, production-grade workflows.**
 
-[📖 Start Learning](#-1-introduction-to-version-control--git) · [⚡ Cheat Sheet](#-32-cheat-sheets) · [🧭 Real-World Scenarios](#-34-real-world-scenarios) · [❓ FAQ / Troubleshooting](#-30-troubleshooting)
+`Difficulty: Beginner → Advanced` &nbsp;•&nbsp; `Reading time: ~3.5 h full / 10 min cheat sheet` &nbsp;•&nbsp; `Format: GitHub Flavored Markdown`
+
+<br/>
+
+[**📖 Start Learning**](#-1-introduction-to-version-control--git) &nbsp;·&nbsp; [**⚡ Cheat Sheet**](#-32-cheat-sheets) &nbsp;·&nbsp; [**🧭 Real-World Scenarios**](#-34-real-world-scenarios) &nbsp;·&nbsp; [**❓ Troubleshooting**](#-30-troubleshooting)
+
+<br/>
+
+<img src="assets/terminal.svg" alt="Basic git workflow in a terminal" width="85%"/>
 
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
 
+<a id="-about-this-repository"></a>
+<a id="about-this-repository"></a>
 ## 🧾 About This Repository
 
 > **📌 Note**
@@ -31,29 +47,15 @@
 
 ### ✨ What You'll Get
 
-| 🎯 Feature | 📋 Description |
-|---|---|
-| **Full Command Coverage** | Every day-to-day and advanced Git command, explained with syntax, options, and real examples |
-| **Visual Learning** | Mermaid diagrams, ASCII trees, and flowcharts for every core concept |
-| **GitHub Deep Dive** | Issues, PRs, Actions, Projects, Pages, Codespaces, Dependabot, and more |
-| **Real Workflows** | Git Flow, GitHub Flow, Trunk-Based Development, monorepo strategy |
-| **Recovery Toolkit** | How to undo *any* mistake — resets, reflog, cherry-pick recovery, lost commits |
-| **Cheat Sheets** | Printable quick-reference tables for daily use |
-| **Interview Prep** | Beginner → Advanced Git interview questions with model answers |
+<p align="center">
+  <img src="assets/features.svg" alt="What you get" width="100%"/>
+</p>
 
 ### 🗺️ Suggested Learning Path
 
-```mermaid
-flowchart LR
-    A[🌱 Beginner<br/>Sections 1-6] --> B[🌿 Intermediate<br/>Sections 7-16]
-    B --> C[🌳 Advanced<br/>Sections 17-26]
-    C --> D[🏆 Professional<br/>Sections 27-36]
-
-    style A fill:#d1fae5,stroke:#059669
-    style B fill:#dbeafe,stroke:#2563eb
-    style C fill:#fef3c7,stroke:#d97706
-    style D fill:#fee2e2,stroke:#dc2626
-```
+<p align="center">
+  <img src="assets/learning-path.svg" alt="Learning path" width="100%"/>
+</p>
 
 | Track | Who it's for | Sections |
 |---|---|---|
@@ -62,7 +64,7 @@ flowchart LR
 | 🌳 **Advanced** | Wants deep internals & GitHub power features | 17 – 26 |
 | 🏆 **Professional** | Wants team workflows, CI/CD, best practices | 27 – 36 |
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
 
 ## 📚 Table of Contents
 
@@ -109,7 +111,11 @@ flowchart LR
 
 </details>
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-1-introduction-to-version-control--git"></a>
+<a id="1-introduction-to-version-control--git"></a>
+<p align="center"><img src="assets/sections/01.svg" alt="Section 1" width="100%"/></p>
 
 ## 📚 1. Introduction to Version Control & Git
 
@@ -171,18 +177,9 @@ graph TB
 
 Git operates on **three main areas** (plus the stash, a fourth optional area):
 
-```mermaid
-flowchart LR
-    WD[📂 Working Directory<br/>your actual files] -->|git add| SA[📋 Staging Area / Index<br/>.git/index]
-    SA -->|git commit| REPO[🗄️ Local Repository<br/>.git/objects]
-    REPO -->|git push| REMOTE[☁️ Remote Repository<br/>GitHub/GitLab]
-    REMOTE -->|git fetch/pull| WD
-
-    style WD fill:#fef3c7
-    style SA fill:#dbeafe
-    style REPO fill:#d1fae5
-    style REMOTE fill:#e0e7ff
-```
+<p align="center">
+  <img src="assets/three-trees.svg" alt="The three trees" width="100%"/>
+</p>
 
 | Area | Location | Purpose |
 |---|---|---|
@@ -193,16 +190,9 @@ flowchart LR
 
 ### 1.5 The Git Lifecycle of a File
 
-```mermaid
-stateDiagram-v2
-    [*] --> Untracked: new file created
-    Untracked --> Staged: git add
-    Staged --> Committed: git commit
-    Committed --> Modified: edit file
-    Modified --> Staged: git add
-    Staged --> Committed: git commit
-    Committed --> [*]
-```
+<p align="center">
+  <img src="assets/file-lifecycle.svg" alt="File lifecycle" width="100%"/>
+</p>
 
 | State | Meaning |
 |---|---|
@@ -222,15 +212,9 @@ Git's entire history is a content-addressable key-value store of four object typ
 | **Commit** | A snapshot pointer + metadata (author, message, parent) | A save-point |
 | **Tag** | A named, permanent pointer to a commit (annotated tags) | A bookmark |
 
-```mermaid
-graph TD
-    C[Commit] -->|points to| T[Tree: root]
-    T -->|contains| B1[Blob: README.md]
-    T -->|contains| T2[Tree: src/]
-    T2 -->|contains| B2[Blob: main.py]
-    T2 -->|contains| B3[Blob: utils.py]
-    C -->|parent| C0[Previous Commit]
-```
+<p align="center">
+  <img src="assets/git-objects.svg" alt="Git object model" width="100%"/>
+</p>
 
 Every object is identified by a **SHA-1 hash** (a 40-character hexadecimal string, e.g. `a94a8fe5ccb19ba61c4c0873d391e987982fbbd`) computed from its content. Change one byte, and the hash — and every commit that references it — changes.
 
@@ -265,7 +249,11 @@ Every object is identified by a **SHA-1 hash** (a 40-character hexadecimal strin
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-2-installation"></a>
+<a id="2-installation"></a>
+<p align="center"><img src="assets/sections/02.svg" alt="Section 2" width="100%"/></p>
 
 ## ⚙️ 2. Installation
 
@@ -394,18 +382,19 @@ Prefix your package manager command with `sudo`.
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-3-configuration"></a>
+<a id="3-configuration"></a>
+<p align="center"><img src="assets/sections/03.svg" alt="Section 3" width="100%"/></p>
 
 ## 🔧 3. Configuration
 
 Git configuration lives in three scopes, applied in increasing priority:
 
-```mermaid
-flowchart LR
-    SYS["🖥️ --system<br/>/etc/gitconfig<br/>All users on machine"] --> GLOB["🌍 --global<br/>~/.gitconfig<br/>All repos for this user"]
-    GLOB --> LOC["📁 --local<br/>.git/config<br/>This repo only"]
-    style LOC fill:#d1fae5,stroke:#059669
-```
+<p align="center">
+  <img src="assets/config-scopes.svg" alt="Config scopes" width="100%"/>
+</p>
 
 | Scope | Flag | File | Priority |
 |---|---|---|---|
@@ -524,7 +513,11 @@ git config --global --remove-section alias  # remove whole section
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-4-creating-repositories"></a>
+<a id="4-creating-repositories"></a>
+<p align="center"><img src="assets/sections/04.svg" alt="Section 4" width="100%"/></p>
 
 ## 📁 4. Creating Repositories
 
@@ -600,7 +593,11 @@ gh repo create my-new-project --template user/template-repo
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-5-basic-workflow"></a>
+<a id="5-basic-workflow"></a>
+<p align="center"><img src="assets/sections/05.svg" alt="Section 5" width="100%"/></p>
 
 ## 🔁 5. Basic Workflow
 
@@ -684,6 +681,8 @@ git log --since="2 weeks ago"
 git log -- file.txt          # history of one file
 ```
 
+<a id="55-git-diff"></a>
+<a id="55-git-diff--compare-changes"></a>
 ### 5.5 `git diff` — Compare Changes
 
 ```bash
@@ -761,11 +760,15 @@ git stash branch new-branch      # create a branch from a stash
 
 > **💡 Tip:** Think of the stash as a clipboard for your working directory — perfect when you need to `git pull` or switch branches urgently but aren't ready to commit.
 
-**Related commands:** [`git branch`](#-6-branching), [`git checkout`](#-11-undo-operations)
+**Related commands:** [`git branch`](#-6-branching), [`git checkout`](#114-git-checkout-legacy-undo-usage)
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-6-branching"></a>
+<a id="6-branching"></a>
+<p align="center"><img src="assets/sections/06.svg" alt="Section 6" width="100%"/></p>
 
 ## 🌿 6. Branching
 
@@ -773,18 +776,9 @@ git stash branch new-branch      # create a branch from a stash
 
 A branch is nothing more than a **41-byte pointer** to a commit. This makes branching in Git nearly instantaneous and cheap — unlike older systems where branching meant copying the entire codebase.
 
-```mermaid
-gitGraph
-    commit id: "c1"
-    commit id: "c2"
-    branch feature/login
-    checkout feature/login
-    commit id: "c3"
-    commit id: "c4"
-    checkout main
-    commit id: "c5"
-    merge feature/login
-```
+<p align="center">
+  <img src="assets/branching.svg" alt="Branching animation" width="100%"/>
+</p>
 
 > **💡 Why it exists:** Branches let multiple people (or multiple features) develop in parallel without interfering with the stable `main` line.
 
@@ -851,7 +845,11 @@ git push -u origin feature/user-auth
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-7-merging"></a>
+<a id="7-merging"></a>
+<p align="center"><img src="assets/sections/07.svg" alt="Section 7" width="100%"/></p>
 
 ## 🔀 7. Merging
 
@@ -949,7 +947,11 @@ Popular merge tools: VS Code, Meld, KDiff3, Beyond Compare, `vimdiff`, GitHub De
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-8-rebasing"></a>
+<a id="8-rebasing"></a>
+<p align="center"><img src="assets/sections/08.svg" alt="Section 8" width="100%"/></p>
 
 ## 🧬 8. Rebasing
 
@@ -1072,11 +1074,9 @@ git cherry-pick --abort                # cancel
 | Merge commit | Creates one (unless FF) | None — commits are replayed |
 | Best for | Integrating finished features into `main` | Cleaning up your **local** branch before opening a PR |
 
-```mermaid
-flowchart TD
-    Q{Is the branch shared<br/>with others?} -->|Yes| M[Use merge]
-    Q -->|No, it's local/private| R[Rebase is safe to use]
-```
+<p align="center">
+  <img src="assets/merge-vs-rebase.svg" alt="Merge vs rebase" width="100%"/>
+</p>
 
 <details>
 <summary><strong>🔧 Common Mistakes</strong></summary>
@@ -1091,7 +1091,11 @@ flowchart TD
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-9-remote-repositories"></a>
+<a id="9-remote-repositories"></a>
+<p align="center"><img src="assets/sections/09.svg" alt="Section 9" width="100%"/></p>
 
 ## ☁️ 9. Remote Repositories
 
@@ -1106,6 +1110,8 @@ git remote set-url origin git@github.com:user/repo.git
 git remote show origin                      # detailed info
 ```
 
+<a id="92-git-fetch"></a>
+<a id="92-git-fetch--download-without-merging"></a>
 ### 9.2 `git fetch` — Download Without Merging
 
 ```bash
@@ -1193,7 +1199,11 @@ git push --mirror git@newhost:user/repo.git    # push absolutely everything, exa
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-10-tags"></a>
+<a id="10-tags"></a>
+<p align="center"><img src="assets/sections/10.svg" alt="Section 10" width="100%"/></p>
 
 ## 🏷️ 10. Tags
 
@@ -1255,26 +1265,19 @@ git switch -c hotfix-from-tag v1.0.0   # create a branch FROM a tag (recommended
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-11-undo-operations"></a>
+<a id="11-undo-operations"></a>
+<p align="center"><img src="assets/sections/11.svg" alt="Section 11" width="100%"/></p>
 
 ## ↩️ 11. Undo Operations
 
 > **📌 Note:** This is the single most important section for beginners. Almost every Git "disaster" is recoverable — Git rarely truly deletes data immediately.
 
-```mermaid
-flowchart TD
-    Start{What do you<br/>want to undo?} --> A[Uncommitted changes<br/>in working dir]
-    Start --> B[Staged changes]
-    Start --> C[Last commit,<br/>not yet pushed]
-    Start --> D[A commit already<br/>pushed/shared]
-    Start --> E[Deleted branch<br/>or lost commit]
-
-    A --> A1["git restore file"]
-    B --> B1["git restore --staged file"]
-    C --> C1["git reset --soft/--hard HEAD~1"]
-    D --> D1["git revert <commit>"]
-    E --> E1["git reflog + git reset/checkout"]
-```
+<p align="center">
+  <img src="assets/undo-decision.svg" alt="Undo decision guide" width="100%"/>
+</p>
 
 ### 11.1 `git restore` (modern, safe)
 
@@ -1313,6 +1316,9 @@ git checkout -- file.txt          # legacy way to discard changes (use restore i
 git checkout a1b2c3d -- file.txt   # restore a file from an old commit
 ```
 
+<a id="114-git-reflog"></a>
+<a id="115-git-reflog"></a>
+<a id="115-git-reflog--your-safety-net"></a>
 ### 11.5 `git reflog` — Your Safety Net
 
 Every movement of `HEAD` (commits, resets, checkouts, rebases, merges) is logged locally — even after you think something is "lost."
@@ -1371,7 +1377,11 @@ git branch recovered-branch a1b2c3d
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-12-searching-git-history"></a>
+<a id="12-searching-git-history"></a>
+<p align="center"><img src="assets/sections/12.svg" alt="Section 12" width="100%"/></p>
 
 ## 🔍 12. Searching Git History
 
@@ -1458,7 +1468,11 @@ flowchart LR
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-13-git-history--log-formatting"></a>
+<a id="13-git-history--log-formatting"></a>
+<p align="center"><img src="assets/sections/13.svg" alt="Section 13" width="100%"/></p>
 
 ## 📜 13. Git History & Log Formatting
 
@@ -1527,7 +1541,11 @@ git log --no-merges        # exclude merge commits (cleaner feature history)
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-14-git-internals"></a>
+<a id="14-git-internals"></a>
+<p align="center"><img src="assets/sections/14.svg" alt="Section 14" width="100%"/></p>
 
 ## 🧠 14. Git Internals
 
@@ -1613,7 +1631,11 @@ Git computes: `SHA1("blob " + content_length + "\0" + content)`. This is why ide
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-15-git-hooks"></a>
+<a id="15-git-hooks"></a>
+<p align="center"><img src="assets/sections/15.svg" alt="Section 15" width="100%"/></p>
 
 ## 🪝 15. Git Hooks
 
@@ -1688,7 +1710,11 @@ git commit --no-verify -m "message"   # bypass hooks (use sparingly!)
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-16-gitignore"></a>
+<a id="16-gitignore"></a>
+<p align="center"><img src="assets/sections/16.svg" alt="Section 16" width="100%"/></p>
 
 ## 🚫 16. .gitignore
 
@@ -1774,7 +1800,11 @@ git check-ignore -v path/to/file
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-17-github-deep-dive"></a>
+<a id="17-github-deep-dive"></a>
+<p align="center"><img src="assets/sections/17.svg" alt="Section 17" width="100%"/></p>
 
 ## 🐙 17. GitHub Deep Dive
 
@@ -1913,10 +1943,10 @@ updates:
 
 `.github/ISSUE_TEMPLATE/bug_report.md`:
 ```markdown
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
 name: Bug Report
 about: Report a reproducible bug
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
 
 **Describe the bug**
 A clear description.
@@ -1940,7 +1970,11 @@ Closes #
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-18-git-lfs-large-file-storage"></a>
+<a id="18-git-lfs-large-file-storage"></a>
+<p align="center"><img src="assets/sections/18.svg" alt="Section 18" width="100%"/></p>
 
 ## 📦 18. Git LFS (Large File Storage)
 
@@ -1987,7 +2021,11 @@ git lfs migrate import --include="*.psd" --everything
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-19-submodules"></a>
+<a id="19-submodules"></a>
+<p align="center"><img src="assets/sections/19.svg" alt="Section 19" width="100%"/></p>
 
 ## 🧩 19. Submodules
 
@@ -2033,7 +2071,11 @@ rm -rf .git/modules/libs/library
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-20-subtree"></a>
+<a id="20-subtree"></a>
+<p align="center"><img src="assets/sections/20.svg" alt="Section 20" width="100%"/></p>
 
 ## 🌲 20. Subtree
 
@@ -2067,7 +2109,11 @@ git subtree push --prefix=libs/library https://github.com/user/library.git contr
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-21-worktrees"></a>
+<a id="21-worktrees"></a>
+<p align="center"><img src="assets/sections/21.svg" alt="Section 21" width="100%"/></p>
 
 ## 🌴 21. Worktrees
 
@@ -2094,7 +2140,11 @@ git worktree prune                      # clean up stale references
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-22-sparse-checkout"></a>
+<a id="22-sparse-checkout"></a>
+<p align="center"><img src="assets/sections/22.svg" alt="Section 22" width="100%"/></p>
 
 ## 🎯 22. Sparse Checkout
 
@@ -2128,7 +2178,11 @@ git clone --filter=blob:none --no-checkout --depth 1 <url>
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-23-git-maintenance"></a>
+<a id="23-git-maintenance"></a>
+<p align="center"><img src="assets/sections/23.svg" alt="Section 23" width="100%"/></p>
 
 ## 🧹 23. Git Maintenance
 
@@ -2187,7 +2241,11 @@ git maintenance run --task=gc
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-24-authentication--signing"></a>
+<a id="24-authentication--signing"></a>
+<p align="center"><img src="assets/sections/24.svg" alt="Section 24" width="100%"/></p>
 
 ## 🔐 24. Authentication & Signing
 
@@ -2269,7 +2327,11 @@ git config --global commit.gpgsign true
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-25-advanced-git"></a>
+<a id="25-advanced-git"></a>
+<p align="center"><img src="assets/sections/25.svg" alt="Section 25" width="100%"/></p>
 
 ## 🚀 25. Advanced Git
 
@@ -2366,7 +2428,11 @@ git replace <old-hash> <new-hash>    # swap an object without rewriting descenda
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-26-git-performance"></a>
+<a id="26-git-performance"></a>
+<p align="center"><img src="assets/sections/26.svg" alt="Section 26" width="100%"/></p>
 
 ## ⚡ 26. Git Performance
 
@@ -2417,7 +2483,11 @@ git config core.fsmonitor true
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-27-collaboration-workflows"></a>
+<a id="27-collaboration-workflows"></a>
+<p align="center"><img src="assets/sections/27.svg" alt="Section 27" width="100%"/></p>
 
 ## 🤝 27. Collaboration Workflows
 
@@ -2425,25 +2495,9 @@ git config core.fsmonitor true
 
 A structured model with long-lived `main` + `develop` branches, plus supporting branches.
 
-```mermaid
-gitGraph
-    commit id: "init"
-    branch develop
-    checkout develop
-    commit id: "d1"
-    branch feature/x
-    checkout feature/x
-    commit id: "f1"
-    checkout develop
-    merge feature/x
-    branch release/1.0
-    checkout release/1.0
-    commit id: "rc1"
-    checkout main
-    merge release/1.0 tag: "v1.0"
-    checkout develop
-    merge release/1.0
-```
+<p align="center">
+  <img src="assets/git-flow.svg" alt="Git Flow" width="100%"/>
+</p>
 
 | Branch | Purpose |
 |---|---|
@@ -2475,6 +2529,10 @@ A middle ground: GitHub Flow + environment branches (`main` → `pre-production`
 ### 27.4 Trunk-Based Development
 
 Everyone commits directly to `main` (or very short-lived branches, merged within a day), guarded by feature flags and heavy automated testing.
+
+<p align="center">
+  <img src="assets/workflows.svg" alt="Workflow comparison" width="100%"/>
+</p>
 
 | | Git Flow | GitHub Flow | Trunk-Based |
 |---|---|---|---|
@@ -2512,7 +2570,11 @@ git switch develop && git merge --no-ff hotfix/critical-auth-bug
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-28-cicd-integration"></a>
+<a id="28-cicd-integration"></a>
+<p align="center"><img src="assets/sections/28.svg" alt="Section 28" width="100%"/></p>
 
 ## 🔄 28. CI/CD Integration
 
@@ -2583,7 +2645,11 @@ pipeline {
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-29-best-practices"></a>
+<a id="29-best-practices"></a>
+<p align="center"><img src="assets/sections/29.svg" alt="Section 29" width="100%"/></p>
 
 ## ✅ 29. Best Practices
 
@@ -2671,7 +2737,11 @@ project-root/
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-30-troubleshooting"></a>
+<a id="30-troubleshooting"></a>
+<p align="center"><img src="assets/sections/30.svg" alt="Section 30" width="100%"/></p>
 
 ## 🛠️ 30. Troubleshooting
 
@@ -2780,7 +2850,11 @@ Informational — run `git push` (ahead) or `git pull` (behind) as needed.
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-31-interview-questions"></a>
+<a id="31-interview-questions"></a>
+<p align="center"><img src="assets/sections/31.svg" alt="Section 31" width="100%"/></p>
 
 ## 🎤 31. Interview Questions
 
@@ -2870,7 +2944,11 @@ A local, chronological log of every movement of `HEAD` (commits, resets, checkou
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-32-cheat-sheets"></a>
+<a id="32-cheat-sheets"></a>
+<p align="center"><img src="assets/sections/32.svg" alt="Section 32" width="100%"/></p>
 
 ## 🗒️ 32. Cheat Sheets
 
@@ -2952,7 +3030,11 @@ flowchart TD
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-33-visual-diagrams"></a>
+<a id="33-visual-diagrams"></a>
+<p align="center"><img src="assets/sections/33.svg" alt="Section 33" width="100%"/></p>
 
 ## 📊 33. Visual Diagrams
 
@@ -3022,7 +3104,11 @@ graph TD
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-34-real-world-scenarios"></a>
+<a id="34-real-world-scenarios"></a>
+<p align="center"><img src="assets/sections/34.svg" alt="Section 34" width="100%"/></p>
 
 ## 🎬 34. Real-World Scenarios
 
@@ -3148,7 +3234,11 @@ git switch feature/oops-work          # continue your work safely here
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-35-resources"></a>
+<a id="35-resources"></a>
+<p align="center"><img src="assets/sections/35.svg" alt="Section 35" width="100%"/></p>
 
 ## 🔗 35. Resources
 
@@ -3169,19 +3259,26 @@ git switch feature/oops-work          # continue your work safely here
 
 [⬆️ Back to Top](#-the-complete-git--github-mastery-guide)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
+
+<a id="-36-author"></a>
+<a id="36-author"></a>
+<p align="center"><img src="assets/sections/36.svg" alt="Section 36" width="100%"/></p>
 
 ## 👤 36. Author
 
 <div align="center">
 
-### Maintained by **Atia Oishi**
+### Curated & Maintained by **Atia Sanjida (Atia Oishi)**
 
-*Engineer,  and lifelong learner — turning complex topics into clear, practical guides.*
+*DevOps, Cloud & Linux Enthusiast · Turning complex version control concepts into intuitive visual masteries.*
 
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/AtiaAbk)
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/feed/)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>](mailto:atia.abk@gmail.com)
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtiaAbk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atia-sanjida-085947233/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atia.abk@gmail.com)
+[![Profile](https://img.shields.io/badge/Portfolio-Atia%20Oishi-8957e5?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/AtiaAbk)
 
 </div>
 
@@ -3196,7 +3293,7 @@ git switch feature/oops-work          # continue your work safely here
 Contributions are welcome! To propose a change:
 
 ```bash
-git clone https://github.com/your-username/git-mastery-guide.git
+git clone https://github.com/AtiaAbk/Git-Learning.git
 git switch -c improve/section-name
 # make your edits to README.md
 git commit -m "docs: improve explanation of rebase section"
@@ -3229,9 +3326,11 @@ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 ```
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
 
 <div align="center">
+
+<img src="assets/footer.svg" alt="Happy committing" width="100%"/>
 
 ### ⭐ If this guide helped you, consider giving the repository a star!
 
